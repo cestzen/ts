@@ -1,0 +1,24 @@
+{
+  "name": "timestamp",
+  "version": "1.0.1",
+  "description": "A small application that changes time",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cestzen/timeStamp.git"
+  },
+  "homepage": "https://timestamp-cestzen.c9users.io/",
+  "bugs": {
+    "url": "https://timestamp-cestzen.c9users.io/"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "C'est Zen",
+  "license": "",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
