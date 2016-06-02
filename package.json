@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cestzen/timeStamp.git"
+    "url": "git+https://github.com/cestzen/ts.git"
   },
   "homepage": "https://timestamp-cestzen.c9users.io/",
   "bugs": {
